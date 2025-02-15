@@ -1,0 +1,19 @@
+{
+  "template": "https://github.com/mrsimonemms/new",
+  "commit": "7922026faaa44d66affad0ad33e5562391cc5c91",
+  "checkout": "main",
+  "context": {
+    "cookiecutter": {
+      "project_name": "hetzner-golang-actions",
+      "description": "Hetzner Golang action completion - the missing part of the Hetzner Golang SDK",
+      "author": "Simon Emms <simon@simonemms.com>",
+      "repo": "github.com/mrsimonemms/hetzner-golang-actions",
+      "_template": "https://github.com/mrsimonemms/new",
+      "_commit": "7922026faaa44d66affad0ad33e5562391cc5c91"
+    }
+  },
+  "directory": "golang",
+  "skip": [
+    ".git"
+  ]
+}
