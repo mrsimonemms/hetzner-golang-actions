@@ -1,5 +1,8 @@
 # hetzner-golang-actions
 
+<!-- markdownlint-disable-next-line MD013 MD034 -->
+[![Go Report Card](https://goreportcard.com/badge/github.com/mrsimonemms/hetzner-golang-actions)](https://goreportcard.com/report/github.com/mrsimonemms/hetzner-golang-actions)
+
 Hetzner Golang action completion - the missing part of the Hetzner Golang SDK
 
 <!-- toc -->
